@@ -2,8 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="-50df4e6a:179505c06dd:-8000" />
     <option name="version" value="6.4.1" />
   </component>
